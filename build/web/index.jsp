@@ -35,7 +35,9 @@
             </div>
 
             <div id="indexLeftColumn">
-                left column
+                <div id="welcomeText">
+                    <p>[ welcome text ]</p>
+                </div>
             </div>
 
             <div id="indexRightColumn">
@@ -62,7 +64,8 @@
             </div>
 
             <div id="footer">
-                footer
+                <hr>
+                <p id="footerText">[ footer text ]</p>
             </div>
         </div>
     </body>

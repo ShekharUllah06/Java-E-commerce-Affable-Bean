@@ -77,3 +77,22 @@ body {
     line-height: 25px;
     background: #aaa;
 }
+#indexRightColumn {
+    height: 400px;
+    width: 500px;
+    float: left;
+    background: #eee;
+}
+
+.categoryBox {
+    height: 176px;
+    width: 212px;
+    margin: 21px 14px 6px;
+    float: inherit;
+    background: #ccc;
+}
+
+.categoryLabelText {
+    line-height: 150%;
+    font-size: x-large;
+}

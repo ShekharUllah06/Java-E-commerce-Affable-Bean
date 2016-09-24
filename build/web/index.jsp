@@ -19,8 +19,8 @@
         categoryImagePath: ${initParam.categoryImagePath}
         productImagePath: ${initParam.productImagePath}
         <br>
-        <img src="../img/categories/meats.jpg" alt=""/>
-        <img src=<c:url value='web-inf/img/categories/meats.jpg' /> alt="dsfd"/>
+        <img src="img/categories/meats.jpg" alt=""/>
+        <img src=${initParam.productImagePath}broccoli.png alt="broccoli"/>
     </div>
 </div>
 
